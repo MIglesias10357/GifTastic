@@ -19,8 +19,8 @@ label {
 body {
 	background-image: url("/assets/images/687676.jpg");
     font-family: 'Bad Script', cursive;
-    background-repeat: no-repeat;
-    background-size: cover;
+    /* background-repeat: no-repeat;
+    background-size: cover; */
 }
 
 .holder {
